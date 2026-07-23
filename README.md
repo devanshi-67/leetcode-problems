@@ -13,6 +13,7 @@ My leetCode solutions in python
 | ------- |
 | [0001-two-sum](https://github.com/devanshi-67/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/devanshi-67/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -45,4 +47,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
