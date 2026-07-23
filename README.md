@@ -29,6 +29,7 @@ My leetCode solutions in python
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/devanshi-67/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -51,4 +52,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
