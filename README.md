@@ -7,6 +7,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshi-67/leetcode-problems/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ My leetCode solutions in python
 | [0007-reverse-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
