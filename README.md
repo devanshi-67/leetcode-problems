@@ -20,6 +20,7 @@ My leetCode solutions in python
 | [0009-palindrome-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/devanshi-67/leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/devanshi-67/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## String
@@ -36,4 +37,12 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/devanshi-67/leetcode-problems/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
