@@ -11,4 +11,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshi-67/leetcode-problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
