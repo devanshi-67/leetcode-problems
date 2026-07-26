@@ -10,6 +10,7 @@ My leetCode solutions in python
 | [0014-longest-common-prefix](https://github.com/devanshi-67/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
