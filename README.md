@@ -11,12 +11,14 @@ My leetCode solutions in python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devanshi-67/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/devanshi-67/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/devanshi-67/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -63,6 +65,7 @@ My leetCode solutions in python
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
