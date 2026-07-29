@@ -10,6 +10,7 @@ My leetCode solutions in python
 | [0014-longest-common-prefix](https://github.com/devanshi-67/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -65,6 +66,7 @@ My leetCode solutions in python
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -72,6 +74,7 @@ My leetCode solutions in python
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/devanshi-67/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0344-reverse-string) |
 ## Trie
