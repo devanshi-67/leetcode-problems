@@ -3,12 +3,12 @@ class Solution:
         if len(nums) == 0:
             return 0 
 
-        i = 0 
+        k = 1
 
-        for j in range(1, len(nums)):
-            if nums[i] != nums[j]:
-                i += 1
-                nums[i] = nums[j]
+        for i in range(1, len(nums)):
+            if nums[i] != nums[k - 1]:
+                nums[k] = nums[i]
+                k += 1
 
-        return i + 1
+        return k 
         
