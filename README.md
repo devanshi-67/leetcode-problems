@@ -12,6 +12,7 @@ My leetCode solutions in python
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/devanshi-67/leetcode-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -19,6 +20,7 @@ My leetCode solutions in python
 | ------- |
 | [0001-two-sum](https://github.com/devanshi-67/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/devanshi-67/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -68,6 +70,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/devanshi-67/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -90,6 +93,7 @@ My leetCode solutions in python
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/devanshi-67/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -100,4 +104,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
