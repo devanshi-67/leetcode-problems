@@ -14,6 +14,7 @@ My leetCode solutions in python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devanshi-67/leetcode-problems/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ My leetCode solutions in python
 | [0205-isomorphic-strings](https://github.com/devanshi-67/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/devanshi-67/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -35,6 +37,7 @@ My leetCode solutions in python
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/devanshi-67/leetcode-problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/devanshi-67/leetcode-problems/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -62,6 +65,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +77,7 @@ My leetCode solutions in python
 | [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +113,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devanshi-67/leetcode-problems/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
