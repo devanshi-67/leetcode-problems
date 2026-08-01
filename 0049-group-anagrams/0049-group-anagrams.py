@@ -7,9 +7,9 @@ class Solution:
             key = "".join(sorted(word))
 
             if key not in d:
-                d[key] = []
-
-            d[key].append(word)
+                d[key] = [word]
+            else:
+                d[key].append(word)
         
         return list(d.values())
         
