@@ -32,6 +32,7 @@ My leetCode solutions in python
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devanshi-67/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
@@ -71,6 +72,7 @@ My leetCode solutions in python
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/devanshi-67/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
@@ -119,4 +121,8 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/devanshi-67/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
