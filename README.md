@@ -17,6 +17,7 @@ My leetCode solutions in python
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/devanshi-67/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshi-67/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My leetCode solutions in python
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshi-67/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/devanshi-67/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -82,6 +84,7 @@ My leetCode solutions in python
 | [0217-contains-duplicate](https://github.com/devanshi-67/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devanshi-67/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshi-67/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +94,7 @@ My leetCode solutions in python
 | [0125-valid-palindrome](https://github.com/devanshi-67/leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/devanshi-67/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshi-67/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +125,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/devanshi-67/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
