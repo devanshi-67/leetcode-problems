@@ -42,6 +42,7 @@ My leetCode solutions in python
 | [0009-palindrome-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/devanshi-67/leetcode-problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/devanshi-67/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/devanshi-67/leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ My leetCode solutions in python
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devanshi-67/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-67/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
@@ -142,5 +144,6 @@ My leetCode solutions in python
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/devanshi-67/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
