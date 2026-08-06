@@ -53,6 +53,7 @@ My leetCode solutions in python
 | ------- |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devanshi-67/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/devanshi-67/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devanshi-67/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/devanshi-67/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/devanshi-67/leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -146,4 +147,12 @@ My leetCode solutions in python
 | ------- |
 | [0070-climbing-stairs](https://github.com/devanshi-67/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devanshi-67/leetcode-problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/devanshi-67/leetcode-problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
