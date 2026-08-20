@@ -11,6 +11,6 @@ class Solution:
 
             seen.add(s[right])
 
-            max_len = max(max_len,right - left + 1)
+            max_len = max(max_len,len(seen))
 
         return max_len
