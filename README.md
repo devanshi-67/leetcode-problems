@@ -62,6 +62,7 @@ My leetCode solutions in python
 | [0003-longest-substring-without-repeating-characters](https://github.com/devanshi-67/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/devanshi-67/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/devanshi-67/leetcode-problems/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/devanshi-67/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/devanshi-67/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devanshi-67/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devanshi-67/leetcode-problems/tree/master/0020-valid-parentheses) |
@@ -98,6 +99,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/devanshi-67/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/devanshi-67/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/devanshi-67/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/devanshi-67/leetcode-problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/devanshi-67/leetcode-problems/tree/master/0509-fibonacci-number) |
@@ -145,6 +147,7 @@ My leetCode solutions in python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devanshi-67/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/devanshi-67/leetcode-problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/devanshi-67/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/devanshi-67/leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devanshi-67/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
