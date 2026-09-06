@@ -7,11 +7,8 @@ class Solution:
 
         while left < right :
             width = right - left
-
             water_height = min(height[left], height[right])
-
             area = width * water_height
-
             maximum = max(maximum ,area)
 
             if height[left] < height[right]:
